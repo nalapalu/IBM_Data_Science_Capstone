@@ -37,6 +37,7 @@ A machine learning model was developed to predict launch success. Various algori
 
 ### Key Findings
 
+[Slide Deck with results](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Final_assignment.pdf)
 #### Decision Tree Model Insights
 - The model achieved an 87.7% accuracy rate.
 - KSC launch site had the highest success rates, likely due to stable environmental conditions.
