@@ -32,7 +32,7 @@ Performed to understand the dataset and explore relationships between features a
 ### Machine Learning Model
 
 A machine learning model was developed to predict launch success. Various algorithms were tested, including logistic regression, decision trees, and random forests. The best-performing model was a Logistic model with an accuracy of 94.4%. Performance metrics such as accuracy, precision, recall, and F1 score were used for evaluation.
-- [**Machine_Learning_Prediction.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Machine_Learning_Prediction.ipynb): Focuses on machine learning predictions.
+- [**Machine_Learning_Prediction.ipynb**](https://github.com/nalapalu/IBM_Data_Science_Capstone/blob/main/Machine_Learning_Prediction.ipynb): Focuses on machine learning predictions using Sklearn, pandas and numpy
 
 ### Key Findings
 
