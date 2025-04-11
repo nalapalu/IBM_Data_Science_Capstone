@@ -47,6 +47,10 @@ A machine learning model was developed to predict launch success. Various algori
 
 To run this project, ensure you have Python installed along with the following libraries:
 - pandas
+- numpy
+- folium
+- sklearn
+- sqlite
 - matplotlib
 - seaborn
 
