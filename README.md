@@ -1,4 +1,4 @@
-# IBM Data Science Capstone Project: Predicting SpaceX Falcon 9 Launch Success
+# Predicting SpaceX Falcon 9 Launch Success
 
 Welcome to the repository for my capstone project under the IBM Data Science Professional Certificate. This Readme provides an overview of the project's goals, structure, and installation instructions.
 
